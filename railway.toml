@@ -1,0 +1,9 @@
+[build]
+  dockerfile = "Dockerfile"
+
+[variables]
+  MYSQLHOST = "zephyr.proxy.rlwy.net"
+  MYSQLPORT = "22339"
+  MYSQLDATABASE = "railway"
+  MYSQLUSER = "root"
+  MYSQLPASSWORD = "ubztddcZWCtXJykSHqjdLwhixlUWtRQV"
