@@ -1,5 +1,4 @@
-# Konfigürasyon ve hassas dosyalar
-config.php
+# Konfigürasyon ve hassas dosyalar (artık ortam değişkeni kullanıyor, güvenli)
 
 # VS dosyaları
 .vs/
