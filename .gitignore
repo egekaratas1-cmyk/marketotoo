@@ -1,0 +1,17 @@
+# Konfigürasyon ve hassas dosyalar
+config.php
+
+# VS dosyaları
+.vs/
+
+# Geçici dosyalar
+*.log
+*.tmp
+*.cache
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# XAMPP/WAMP yerel dosyaları
+BASLAT.bat
